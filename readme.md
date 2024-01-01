@@ -14,5 +14,5 @@
 <hr/>
 <div>
    <h1>Skills</h1>
-   <img src="https://skills.thijs.gg/icons?i=html,css,js,react,firebase,nodejs,figma,python,pytorch,azure,reactnative"/>
+   <img src="https://skills.thijs.gg/icons?i=html,css,js,react,firebase,nodejs,mongodb,mysql,figma,python,pytorch,azure,unity,c,git"/>
 </div>
