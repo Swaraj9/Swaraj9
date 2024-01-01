@@ -13,5 +13,5 @@
 </a>
 <hr/>
 <div>
-   [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+   ![image](https://github.com/Swaraj9/Swaraj9/assets/83444502/ff163c45-415a-4121-bd86-fbfb2d4d9edd)
 </div>
