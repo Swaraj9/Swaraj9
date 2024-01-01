@@ -11,8 +11,7 @@
 <a href="https://github.com/swaraj9/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj9&theme=midnight-purple&layout=donut&width=320\&border_color=7f3ace" />
 </a>
-<hr/>
 <div>
-   <h1>Skills</h1>
+   <h2>Skills</h2>
    <img src="https://skills.thijs.gg/icons?i=html,css,js,react,firebase,nodejs,mongodb,mysql,figma,python,pytorch,azure,unity,c,git"/>
 </div>
