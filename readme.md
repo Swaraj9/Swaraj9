@@ -13,5 +13,5 @@
 </a>
 <hr/>
 <div>
-   ![image](https://github.com/Swaraj9/Swaraj9/assets/83444502/ff163c45-415a-4121-bd86-fbfb2d4d9edd)
+   <img src="https://github.com/Swaraj9/Swaraj9/assets/83444502/ff163c45-415a-4121-bd86-fbfb2d4d9edd"/>
 </div>
