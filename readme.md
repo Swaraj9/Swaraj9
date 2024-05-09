@@ -15,3 +15,8 @@
    <h2>Skills</h2>
    <img src="https://skills.thijs.gg/icons?i=html,css,js,react,firebase,nodejs,mongodb,mysql,figma,python,pytorch,azure,unity,c,git"/>
 </div>
+<div>
+  <h2>>Project Links</h2>
+  <h3>Superchat</h3>
+  <a href=""></a>
+</div>
