@@ -32,13 +32,6 @@
 ## About Me
 I’m Swaraj Dusane — FullStack Developer focused on building production-grade web applications and cloud-native services. I enjoy designing maintainable systems, improving developer experience, and contributing to open-source.
 
-- 🔭 I’m currently working on: ConvoyChat (realtime chat and collaboration projects)
-- 🌱 I’m learning: advanced backend architectures, observability and system design
-- 💬 Ask me about: JavaScript/TypeScript, Node.js, React, Docker, Kubernetes
-- ⚡ Fun fact: I love turning ideas into polished, usable products
-
----
-
 ## Skills & Tools
 
 - Languages: JavaScript / TypeScript, Python, Go
@@ -47,7 +40,6 @@ I’m Swaraj Dusane — FullStack Developer focused on building production-grade
 - Databases: PostgreSQL, MongoDB, Redis
 - Cloud & Infra: Docker, Kubernetes, AWS, Azure
 - Testing & CI: Jest, GitHub Actions, Terraform
----
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/swaraj-dusane-35941722b/
