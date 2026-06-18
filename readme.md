@@ -34,12 +34,12 @@ I’m Swaraj Dusane — FullStack Developer focused on building production-grade
 
 ## Skills & Tools
 
-- Languages: JavaScript / TypeScript, Python, Go
+- Languages: JavaScript / TypeScript, Python, Java
 - Frontend: React, Next.js, HTML/CSS
 - Backend: Node.js, Express, gRPC, REST
-- Databases: PostgreSQL, MongoDB, Redis
+- Databases: PostgreSQL, MongoDB, Redis, MySQL
 - Cloud & Infra: Docker, Kubernetes, AWS, Azure
-- Testing & CI: Jest, GitHub Actions, Terraform
+- Testing & CI: Jest, GitHub Actions
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/swaraj-dusane-35941722b/
