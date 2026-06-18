@@ -48,13 +48,6 @@ I’m Swaraj Dusane — FullStack Developer focused on building production-grade
 - Databases: PostgreSQL, MongoDB, Redis
 - Cloud & Infra: Docker, Kubernetes, AWS, Azure
 - Testing & CI: Jest, GitHub Actions, Terraform
-
-<details>
-  <summary>Tool icons</summary>
-  
-  <img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,postgres,mongodb,docker,kubernetes,aws,gcloud,git" alt="skills" />
-
-</details>
 ---
 
 ## Get in touch
