@@ -55,21 +55,6 @@ I’m Swaraj Dusane — FullStack Developer focused on building production-grade
   <img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,postgres,mongodb,docker,kubernetes,aws,gcloud,git" alt="skills" />
 
 </details>
-
----
-
-## Featured Projects
-- **ConvoyChat** — Realtime chat application focused on collaborative workflows. https://github.com/Swaraj9/convoychat
-- **github-readme-stats (fork/info)** — GitHub stats and language breakdown usage for profile cards. https://github.com/Swaraj9/github-readme-stats
-
-(If you'd like, I can add image cards, demos, or short project descriptions — tell me which repos to highlight and a single-line blurb for each.)
-
----
-
-## Work & Highlights
-- FullStack Developer — Built and shipped production features, improved API performance and deployment reliability.
-- Contributor to several open-source projects and personal tools for developer productivity.
-
 ---
 
 ## Get in touch
