@@ -16,6 +16,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj9&layout=compact&theme=dark" height="160" />
   </p>
 
+  <!-- Streak & Trophies -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaraj9&theme=dark" alt="streak" />
+  </p>
+
   <!-- Visitor badge -->
   <p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Swaraj9.Swaraj9" alt="visitors" />
