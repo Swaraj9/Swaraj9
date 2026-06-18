@@ -1,17 +1,81 @@
-<div id="badges">
-  <h1>Hi, I'm Swaraj</h1>
-  <img src="https://komarev.com/ghpvc/?username=Swaraj9&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.linkedin.com/in/swaraj-dusane-35941722b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <h1>Hi, I'm Swaraj Dusane 👋</h1>
+  <p><strong>FullStack Developer</strong> • Building reliable, scalable web and cloud applications</p>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/swaraj-dusane-35941722b/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Swaraj9&style=flat-square&color=blue" alt="Profile views" />
+  </p>
+
+  <!-- GitHub Stats & Languages -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swaraj9&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" height="160" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj9&layout=compact&theme=dark" height="160" />
+  </p>
+
+  <!-- Streak & Trophies -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaraj9&theme=dark" alt="streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Swaraj9&theme=dark" alt="trophies" />
+  </p>
+
+  <!-- Visitor badge -->
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Swaraj9.Swaraj9" alt="visitors" />
+  </p>
 </div>
-<a href="https://github.com/swaraj9/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swaraj9&theme=midnight-purple&show_icons=true\&include_all_commits=true\&border_color=7f3ace" />
-</a>
-<a href="https://github.com/swaraj9/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj9&theme=midnight-purple&layout=donut&width=320\&border_color=7f3ace" />
-</a>
-<div>
-   <h2>Skills</h2>
-   <img src="https://skills.thijs.gg/icons?i=html,css,js,react,firebase,nodejs,mongodb,mysql,figma,python,pytorch,azure,unity,c,git"/>
-</div>
+
+---
+
+## About Me
+I’m Swaraj Dusane — FullStack Developer focused on building production-grade web applications and cloud-native services. I enjoy designing maintainable systems, improving developer experience, and contributing to open-source.
+
+- 🔭 I’m currently working on: ConvoyChat (realtime chat and collaboration projects)
+- 🌱 I’m learning: advanced backend architectures, observability and system design
+- 💬 Ask me about: JavaScript/TypeScript, Node.js, React, Docker, Kubernetes
+- ⚡ Fun fact: I love turning ideas into polished, usable products
+
+---
+
+## Skills & Tools
+
+- Languages: JavaScript / TypeScript, Python, Go
+- Frontend: React, Next.js, HTML/CSS
+- Backend: Node.js, Express, gRPC, REST
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud & Infra: Docker, Kubernetes, AWS, Azure
+- Testing & CI: Jest, GitHub Actions, Terraform
+
+<details>
+  <summary>Tool icons</summary>
+  
+  <img src="https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,postgres,mongodb,docker,kubernetes,aws,gcloud,git" alt="skills" />
+
+</details>
+
+---
+
+## Featured Projects
+- **ConvoyChat** — Realtime chat application focused on collaborative workflows. https://github.com/Swaraj9/convoychat
+- **github-readme-stats (fork/info)** — GitHub stats and language breakdown usage for profile cards. https://github.com/Swaraj9/github-readme-stats
+
+(If you'd like, I can add image cards, demos, or short project descriptions — tell me which repos to highlight and a single-line blurb for each.)
+
+---
+
+## Work & Highlights
+- FullStack Developer — Built and shipped production features, improved API performance and deployment reliability.
+- Contributor to several open-source projects and personal tools for developer productivity.
+
+---
+
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/swaraj-dusane-35941722b/
+- GitHub: https://github.com/Swaraj9
+
+---
+
+<p align="center">Made with ❤️ • Feel free to reach out — happy to collaborate or discuss opportunities.</p>
